@@ -1,0 +1,4 @@
+function displaytime() {
+var element = document.getElementbyId('clock');
+var now = new Date();
+element.innerHTML
